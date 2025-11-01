@@ -1,0 +1,7 @@
+tensorflow
+numpy
+matplotlib
+patchify
+opencv-python-headless
+gdown
+jupyter
